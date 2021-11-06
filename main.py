@@ -1,5 +1,5 @@
 try:
-    import requests, json, threading, time
+    import requests, json, time
     from colorama import Fore, init
 except ImportError:
     print("Please intall requests\nOpen cmd and type : pip install requests")
